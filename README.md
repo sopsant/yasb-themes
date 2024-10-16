@@ -29,6 +29,7 @@ weather:
         - {icon: "\uf1ff", launch: "C:\\Users\\user\\AppData\\Local\\Discord\\Update.exe --processStart Discord.exe"}
       ***     
 ```
+- To use the light theme, you need to enable light mode in Windows
 ***
 
 <details>
